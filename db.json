@@ -1,6 +1,46 @@
 {
   "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "posterPath": "/public/images/MoviePoster1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "posterPath": "/public/images/MoviePoster2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather: Part II",
+      "posterPath": "/public/images/MoviePoster3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "posterPath": "/public/images/MoviePoster4.jpeg"
+    }
   ],
   "favourites": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "posterPath": "/public/images/MoviePoster1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "posterPath": "/public/images/MoviePoster2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "The Godfather: Part II",
+      "posterPath": "/public/images/MoviePoster3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "posterPath": "/public/images/MoviePoster4.jpeg"
+    }
   ]
 }

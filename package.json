@@ -11,6 +11,7 @@
   "author": "Himani Singla",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
     "fetch-mock": "^6.3.0",
